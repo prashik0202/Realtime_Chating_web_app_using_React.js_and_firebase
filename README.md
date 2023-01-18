@@ -8,8 +8,8 @@ In this React App we have created a simple chat Application
 
 # Firebase
   In firebase we have use following service:<br><br>
-    1.Google Authentication for login purpose.<br>
-    2.Cloud FireStone for database
+    1. Google Authentication for login purpose.<br>
+    2. Cloud FireStone for database
     
 # ScreenShots:
   
