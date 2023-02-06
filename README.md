@@ -11,8 +11,9 @@ In this React App we have created a simple chat Application
     1. Google Authentication for login purpose.<br>
     2. Cloud FireStone for database
     
-#Project link:
+# Project link:
   url : https://real-time-chat-app-c8b9d.web.app/
+  
 # ScreenShots:
 
 ![image](https://user-images.githubusercontent.com/88095936/213169142-749ca3f5-9707-4f9c-ab49-1ba37515ba90.png)
