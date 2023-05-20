@@ -16,7 +16,7 @@ In this React App we have created a simple chat Application
   
 # ScreenShots:
 
-![image](https://user-images.githubusercontent.com/88095936/213169142-749ca3f5-9707-4f9c-ab49-1ba37515ba90.png)
+![image](https://github.com/prashik0202/Realtime_Chating_web_app_using_React.js_and_firebase/assets/88095936/55b25805-27a8-427e-8859-8167f76d0d60)
 
   
-![Screenshot_20230118_173740](https://user-images.githubusercontent.com/88095936/213167832-0767fbf7-7e0e-4643-9910-d3946f7dd4bf.png)
+![image](https://github.com/prashik0202/Realtime_Chating_web_app_using_React.js_and_firebase/assets/88095936/68f8a698-d052-4a33-98ef-22e568e23873)
