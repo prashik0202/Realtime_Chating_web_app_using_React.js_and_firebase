@@ -1,7 +1,8 @@
 import React from "react";
-import GoogleSignin from "../img/btn_google_signin_dark_pressed_web.png";
-import { auth } from "../firebase";
+import { auth } from "../firebase"; // importing auth
 import { GoogleAuthProvider , signInWithRedirect } from "firebase/auth";
+
+import GoogleButton from 'react-google-button'
 
 const Welcome = () => {
   const googleSignIn = () => {
@@ -14,14 +15,11 @@ const Welcome = () => {
       <h2>Welcome to MyChat App</h2>
       <img src="/logo512.png" alt="ReactJs logo" width={200} height={200} />
       <p></p>
-      <button className="sign-in">
-        <img
-          onClick={googleSignIn}
-          src={GoogleSignin}
-          alt="sign in with google"
-          type="button"
-        />
-      </button>
+      <GoogleButton 
+      type="dark"
+      onClick={googleSignIn}
+      / >
+      <p>Made with ❤️</p>
     </main>
   );
 };
